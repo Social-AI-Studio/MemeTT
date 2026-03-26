@@ -1,0 +1,7 @@
+boto3==1.37.26
+gdown==5.2.0
+pandas==2.2.3
+parallel-pandas==0.6.5
+pillow==11.1.0
+python-dotenv==1.1.0
+tenacity==9.1.2
